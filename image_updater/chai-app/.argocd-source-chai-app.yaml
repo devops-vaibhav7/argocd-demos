@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - vaibhavyudiz/chai-devops:v1.4.0
